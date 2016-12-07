@@ -1,0 +1,63 @@
+body{
+	background-image: url(http://us.123rf.com/450wm/3drenderings/3drenderings1506/3drenderings150600089/40525250-3d-render-of-bird-feather.jpg?ver=6);
+	background-repeat: repeat;
+	background-size: 200px auto;
+}
+.container{
+	background-color: #DAD7C6;
+	width:80%;
+	padding: 5%;
+	margin: 0 5%;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Freckle Face', cursive;
+	padding: 20px
+
+}
+p {
+	font-family: 'Special Elite', cursive;
+}
+header{
+	font-size: 28px;
+	text-align: center;
+	font-family: 'Freckle Face', cursive;
+}
+hr{
+	margin: 50px 0;
+	height: 1px;
+	background-color: pink;
+	border: 0px;
+}
+img.header-img {
+	height: 160px;
+}
+.text-wrap, .img-wrap{
+	width: 50%;
+	float: left;
+}
+.clear {
+	clear: both;
+}
+img.about-img{
+	height: auto;
+	width: 280px;
+}
+img.behavior-img{
+	height: auto;
+	width:300px;
+}
+.text-wrap 2{
+	width: 50%;
+	float: left;
+}
+.text-wrap3{
+	width: 50%;
+	float: left;
+
+}
+img.physical-remains-img{
+	height: auto;
+	width: 300px;
+	float: left;
+	padding: 50px;
+}
